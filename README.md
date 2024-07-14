@@ -2,3 +2,4 @@
 Chapter 5 homework
 
 ls - lists all files and directories in the current directoy 
+pwd - prints the current directory path
